@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-Product leader with **16+ years in IT** and **7+ years in product management**, specializing in transforming B2C and B2B eCommerce through data-driven systems and optimized seller fulfillment workflows. Executive MBA in Product Management from the **Institute of Product Leadership**. Experienced in rapid prototyping using tools like **v0.dev** and **Figma**. Passionate about enhancing **logistics** and **seller experience** to drive business growth and customer satisfaction. [web:1]
+Product leader with **7+ years in product management**, specializing in transforming B2C and B2B eCommerce through data-driven systems and optimized seller fulfillment workflows. Executive MBA in Product Management from the **Institute of Product Leadership**. Experienced in rapid prototyping using tools like **v0.dev** and **Figma**. Passionate about enhancing **logistics** and **seller experience** to drive business growth and customer satisfaction. [web:1]
 
 ---
 
